@@ -1,2 +1,6 @@
 echo ALX
+<<<<<<< HEAD
 echo the school is open 
+=======
+echo "alx school"" 
+>>>>>>> update_script
